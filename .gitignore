@@ -1,0 +1,15 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dependencies (not used by this static app, but harmless to ignore)
+node_modules/
+
+# Logs
+*.log
